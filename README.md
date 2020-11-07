@@ -8,10 +8,10 @@ I'm currently working on opensource ideas of my own. Previously worked with many
 here is my readme.
 
 <p align='center'>
-<a href="https://twitter.com/iamjideguru">
+<a href="https://twitter.com">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/festus-babajide-olusegun-b2b197128">
+<a href="https://www.linkedin.com/in/ahmed-hafdi-200528188/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://medium.com/@jideguru">
