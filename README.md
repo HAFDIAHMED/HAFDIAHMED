@@ -6,7 +6,6 @@
 ### 👋 Hey Guys, I'm AHMED HAFDI, I'm a Software Engineer                                                                        
 I'm currently working on opensource ideas of my own. Previously worked with many private repository clients now my goal is to promote projects for opensource communtiy.
 here is my readme.
-
 <p align='center'>
 <a href="https://twitter.com">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
