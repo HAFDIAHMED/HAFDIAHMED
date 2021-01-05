@@ -23,4 +23,3 @@ here is my readme.
 <img src="https://gpvc.arturio.dev/jideguru" />
 </p>   
         
-Hola
