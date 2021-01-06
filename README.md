@@ -20,6 +20,10 @@ here is my readme.
 <a href="Ahmed.Hafdi@ieee.org">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
+  <a href="http://wa.me/22999249702?text=Hello Michael">
+  <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>&nbsp;&nbsp;
+  
 <img src="https://gpvc.arturio.dev/jideguru" />
 </p>   
         
