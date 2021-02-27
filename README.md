@@ -6,7 +6,8 @@
                           
 ### 👋 Hey Guys, I'm AHMED HAFDI, I'm a Software Engineer 
 ### full stack developper 
-### freelancer## research engineer                                                                                       
+### freelancer
+### research engineer                                                                                       
 I'm currently working on opensource ideas of my own. Previously worked with many private repository clients now my goal is to promote projects for opensource communtiy.
 here is my readme.
 <p align='center'>
