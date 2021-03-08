@@ -46,15 +46,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://www.pngkey.com/png/full/346-3466804_bringing-cdi-to-eclipse-java-jee.png"></code>
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Markdown     1 hr 16 mins    █████████▒░░░░░░░░░░░░░░░   36.97 % 
-JSON         1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   29.78 % 
-JavaScript   50 mins         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-C++          17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-```
-<!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
