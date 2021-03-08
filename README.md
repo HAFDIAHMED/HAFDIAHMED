@@ -43,6 +43,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://p.kindpng.com/picc/s/159-1595798_python-computer-icons-programmer-javascript-programming-python-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="20" src="https://miro.medium.com/max/700/0*nsbIYn7PGj9YK3dB"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
