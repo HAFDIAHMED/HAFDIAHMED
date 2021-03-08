@@ -44,6 +44,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="20" src="https://miro.medium.com/max/700/0*nsbIYn7PGj9YK3dB"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
