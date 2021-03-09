@@ -68,7 +68,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 ✅Wakatime Week Stats
 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hafdiahmed)](https://github.com/hafdiahmed/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hafdiahmed)](https://github.com/hafdiahmed/github-readme-stats)
+
 
 
 
