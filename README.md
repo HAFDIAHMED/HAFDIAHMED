@@ -70,6 +70,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hafdiahmed&show_icons=true&theme=gotham" alt="hafdiahmed" />
@@ -81,6 +82,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ✅Wakatime Week Stats
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hafdiahmed)](https://github.com/hafdiahmed/github-readme-stats)
+
+
+
+<img alt="Hafdi Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hafdiahmed&show_icons=true&hide_border=true" />
+
+<img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&layout=compact&hide_border=true" />
+
 
 
 
