@@ -85,9 +85,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 
-<img alt="Hafdi Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hafdiahmed&show_icons=true&hide_border=true" />
 
-<img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&layout=compact&hide_border=true" />
+
+<img alt="Hafdi ahmed's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfreddagenais&layout=compact&hide_border=true" />
 
 
 
