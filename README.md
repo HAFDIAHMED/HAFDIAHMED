@@ -57,6 +57,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
+##GitHub Extra Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hafdiahmed&repo=github-readme-stats)](https://github.com/hafdiahmed/github-readme-stats)
+
 
 📈 My GitHub Stats
 
