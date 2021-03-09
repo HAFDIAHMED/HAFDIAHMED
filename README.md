@@ -61,6 +61,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hafdiahmed&show_icons=true&theme=gotham" alt="hafdiahmed" />
+  
+  Most used Languages
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 
