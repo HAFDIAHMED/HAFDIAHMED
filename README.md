@@ -17,7 +17,8 @@ Hi, I'm [Ahmed HAFDI](https://hafdiahmed.github.io/), a passionate self-taught F
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+[![pp](https://i.kym-cdn.com/photos/images/original/001/036/775/5f6.gif)](https://github.com/nul-dev)
+
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ahmedhafdi](ahmed.hafdi.contact@gmail.com);
