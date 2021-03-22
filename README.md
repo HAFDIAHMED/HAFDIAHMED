@@ -46,7 +46,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
 <code><img height="20" src="https://www.pngkey.com/png/full/346-3466804_bringing-cdi-to-eclipse-java-jee.png"></code>
 <br>
-<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="169" />
 
  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
