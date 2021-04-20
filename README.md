@@ -16,7 +16,7 @@ Hi, I'm [Ahmed HAFDI](https://hafdiahmed.github.io/), a passionate self-taught F
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
+      
 <img src ="https://github.com/HAFDIAHMED/HAFDIAHMED/blob/master/code.gif">
     
   
