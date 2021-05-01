@@ -15,7 +15,7 @@
 Hi, I'm [Ahmed HAFDI](https://ahmedhafdi.com), a passionate self-taught Full Stack web developer, mobile , blockchain  and a freelance software engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-            
+                
       
 <img src ="https://github.com/HAFDIAHMED/HAFDIAHMED/blob/master/code.gif">
     
@@ -23,7 +23,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ahmedhafdi](ahmed.hafdi.contact@gmail.com);
 - 📝 [Resume](https://hafdiahmed.github.io/MY_PORTFOLIO/)
-
+          
 **Languages and Tools:**  
          
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
