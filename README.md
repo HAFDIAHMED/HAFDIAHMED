@@ -15,9 +15,7 @@ Hi, I'm [Ahmed HAFDI](https://ahmedhafdi.com), a passionate self-taught Full Sta
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.                
       
-<img src ="https://github.com/HAFDIAHMED/HAFDIAHMED/blob/master/code.gif">
-    
-  
+<img src ="https://github.com/HAFDIAHMED/HAFDIAHMED/blob/master/code.gif"> 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ahmedhafdi](ahmed.hafdi.contact@gmail.com);
 - 📝 [Resume](https://hafdiahmed.github.io/MY_PORTFOLIO/)
