@@ -19,7 +19,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src ="https://github.com/HAFDIAHMED/HAFDIAHMED/blob/master/code.gif"> 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ahmedhafdi](ahmed.hafdi.contact@gmail.com);
-- 📝 [Resume](https://hafdiahmed.github.io/MY_PORTFOLIO/)
+- 📝 [Resume](https://ahmedhafdi.com)
           
 **Languages and Tools:** 
      
