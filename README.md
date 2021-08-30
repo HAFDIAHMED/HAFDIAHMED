@@ -2,7 +2,7 @@
   <a href="http://wa.me/212674993655?text=Hello AHMED HAFDI">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-                                 
+                                    
                                                               
                  
 <a href="https://www.linkedin.com/in/ahmed-hafdi-200528188/">
@@ -86,4 +86,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafdiahmed&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=hafdiahmed&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
  
-
+   
