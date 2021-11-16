@@ -30,6 +30,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=hafdiahmed&theme=github" alt="ablaamim's github activity graph"/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://www.fandysoft.com/wp-content/uploads/2017/09/catalog-widget-placeholder-300x200.png"></code>
 <code><img height="20" src="https://p.kindpng.com/picc/s/159-1595798_python-computer-icons-programmer-javascript-programming-python-logo.png"></code>
