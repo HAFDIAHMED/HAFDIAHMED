@@ -15,8 +15,7 @@ Hi, I'm [Ahmed HAFDI](https://ahmedhafdi.com), a passionate self-taught Full Sta
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.                
       
 <img src ="https://github.com/HAFDIAHMED/HAFDIAHMED/blob/master/the_last_dinner_software.jfif"> 
-- 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://ahmedhafdi.com)
+
           
 **Languages and Tools:** 
 
