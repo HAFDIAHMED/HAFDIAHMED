@@ -8,10 +8,7 @@ Software Engineer & Data Scientist passionate  about Machine Learning and Mathem
 * 🌍  I'm based in Rabat, Morocco
 * ✉️  You can contact me at [ahmed.hafdi.contact@gmail.com](mailto:ahmed.hafdi.contact@gmail.com)
 * 🧠  I'm learning more about Data Science  and stepping up my machine learning programming skills.
-
-
-          
-      
+* 
 <!-- <img src ="https://github.com/HAFDIAHMED/HAFDIAHMED/blob/master/the_last_dinner_software.jfif">  -->
       
 **Languages and Tools:** 
