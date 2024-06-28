@@ -16,5 +16,5 @@ if !counter! EQU 5 (
     set /a counter=0
 )
 
-timeout /t 30
+timeout /t 10
 goto loop
