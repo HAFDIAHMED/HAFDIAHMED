@@ -1,6 +1,7 @@
 @echo off
-cd C:\Users\018801\Documents\Github\HAFDIAHMED
 :loop
+cd C:\Users\018801\Documents\Github\HAFDIAHMED
+
 echo Hello Commit > commit_message.txt
 git add .
 git commit -m "Automatic commit at %date% %time%"
