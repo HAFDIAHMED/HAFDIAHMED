@@ -11,7 +11,7 @@ git push -f
 set /a counter=!counter!+1
 
 rem Check if the counter is 5 (approximately 10 minutes)
-if !counter! EQU 5 (
+if !counter! EQU 1 (
     del *.txt
     set /a counter=0
 )
