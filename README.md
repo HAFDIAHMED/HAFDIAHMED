@@ -2,7 +2,7 @@ Hi My name is Ahmed HAFDI
 ==============================               
 R&D Software Engineer and Data Scientist  
 ---------------------     
-
+    
 Software Engineer & Data Scientist passionate  about Machine Learning and Mathematics Research.
 
 * 🌍  I'm based in Rabat, Morocco
