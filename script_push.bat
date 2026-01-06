@@ -7,6 +7,6 @@ git pull
 git add .
 git commit -m "Automatic commit at %date% %time%"
 git push -f
-timeout /t 10 /nobreak
+timeout /t 30 /nobreak
 
 goto loop
